@@ -1,0 +1,8 @@
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore SQLite database file
+flowallet.db
