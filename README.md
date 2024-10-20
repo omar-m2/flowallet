@@ -138,10 +138,10 @@ To package the application as an executable, follow these steps:
 
     Once PyInstaller finishes, your packaged application will be in the dist/ folder:
 
-    dist/
-    └── flowallet.exe
+       dist/
+       └── flowallet.exe
 
-6. **Test the executable:**
+7. **Test the executable:**
 
     Test the generated executable by running it:
 
@@ -165,16 +165,16 @@ To package the application as an executable, follow these steps:
 
 ## Project Structure
 
-flowallet/
-├── flowallet.py
-├── tests/
-|   └── test_flowallet.py
-├── assets/
-|   └── app_logo.ico
-├── README.md
-├── LICENSE.md
-├── .gitignore
-└── requirements.txt
+    flowallet/
+    ├── flowallet.py 
+    ├── tests/ 
+    │ └── test_flowallet.py 
+    ├── assets/ 
+    │ └── app_logo.ico 
+    ├── README.md 
+    ├── LICENSE.md 
+    ├── .gitignore 
+    └── requirements.txt
 
 ## Contribution
 
